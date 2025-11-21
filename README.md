@@ -5,11 +5,13 @@ Este repositório contém todos os meus projetos em Python/Lua (Open Source), qu
 
 ## Descrição
 
-Este projeto contém diversos scripts em Python que abordam temas como:
+Este projeto contém diversos scripts em Python/Lua que abordam temas como:
 
 - Cálculos matemáticos
 - Manipulação de strings
 - Controle de fluxo
+- Script de animações
+- Script de movimentação
 
 ## Estrutura do Projeto
 
