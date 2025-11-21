@@ -29,6 +29,12 @@ O repositório contém os seguintes arquivos:
 └── soma_pares.py
 ```
 
+```
+/Projetos-em-Python-e-Lua/Lua
+├── DashScript.lua
+
+```
+
 ## Como Usar
 
 1. **Clone o repositório para a sua máquina local:**
