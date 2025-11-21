@@ -39,7 +39,7 @@ O repositório contém os seguintes arquivos:
 
 1. **Clone o repositório para a sua máquina local:**
    ```bash
-   git clone https://github.com/IsmaelGamesYT0/Projetos-em-Python.git
+   git clone https://github.com/IsmaelGamesYT0/Projetos-em-Python-e-Lua.git
    ```
 
 2. **Navegue até a pasta do projeto:**
