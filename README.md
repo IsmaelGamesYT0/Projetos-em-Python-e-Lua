@@ -16,7 +16,7 @@ Este projeto contém diversos scripts em Python que abordam temas como:
 O repositório contém os seguintes arquivos:
 
 ```
-/Projetos-em-Python-e-Lua
+/Projetos-em-Python-e-Lua/Python
 ├── bot.py
 ├── calculaora_adicao.py
 ├── contagem_regressiva.py
