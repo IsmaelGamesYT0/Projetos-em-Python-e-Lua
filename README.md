@@ -1,7 +1,7 @@
 
-# Projetos em Python
+# Projetos em Python/Lua
 
-Este repositório contém todos os meus projetos em Python (Open Source), que podem ser usados e modificados por qualquer pessoa. Este é apenas o começo da minha jornada na programação e quero guardar meus projetos aqui, desde os mais simples até os mais avançados. O objetivo principal é tornar esses projetos **Open Source**, permitindo que outros possam usá-los, modificá-los e até sugerir melhorias ou apontar bugs.
+Este repositório contém todos os meus projetos em Python/Lua (Open Source), que podem ser usados e modificados por qualquer pessoa. Este é apenas o começo da minha jornada na programação e quero guardar meus projetos aqui, desde os mais simples até os mais avançados. O objetivo principal é tornar esses projetos **Open Source**, permitindo que outros possam usá-los, modificá-los e até sugerir melhorias ou apontar bugs.
 
 ## Descrição
 
@@ -16,7 +16,7 @@ Este projeto contém diversos scripts em Python que abordam temas como:
 O repositório contém os seguintes arquivos:
 
 ```
-/Projetos-em-Python
+/Projetos-em-Python-e-Lua
 ├── bot.py
 ├── calculaora_adicao.py
 ├── contagem_regressiva.py
@@ -38,7 +38,7 @@ O repositório contém os seguintes arquivos:
 
 2. **Navegue até a pasta do projeto:**
    ```bash
-   cd Projetos-em-Python
+   cd Projetos-em-Python-e-Lua
    ```
 
 3. **Execute o script desejado com Python:**
