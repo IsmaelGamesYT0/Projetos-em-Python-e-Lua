@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "CMD Externo na Pasta do Projeto",
+            "type": "shell",
+            "command": "start cmd /K cd \"${workspaceFolder}\"",
+            "problemMatcher": [],
+            "group": {
+                "kind": "none",
+                "isDefault": false
+            }
+        }
+    ]
+}
