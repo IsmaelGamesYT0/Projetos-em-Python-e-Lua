@@ -672,4 +672,4 @@ print(f"Parabéns por completar a entrevista, {nome}!")
 time.sleep(2)
 clear()
 
-exit()
+
