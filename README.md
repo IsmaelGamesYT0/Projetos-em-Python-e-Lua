@@ -68,4 +68,3 @@ Este projeto é de código aberto e pode ser utilizado livremente. Fique à vont
 
 ---
 
-**Nota:** Basta copiar e colar este conteúdo no arquivo `README.md` do seu repositório e salvar. Caso precise de algum ajuste, fique à vontade para me avisar!
