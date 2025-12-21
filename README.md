@@ -1,11 +1,11 @@
 
-# Projetos em Python/Luau
+# Projetos em Python/Lua
 
-Este repositório contém todos os meus projetos em Python/Luau (Open Source), que podem ser usados e modificados por qualquer pessoa. Este é apenas o começo da minha jornada na programação e quero guardar meus projetos aqui, desde os mais simples até os mais avançados. O objetivo principal é tornar esses projetos **Open Source**, permitindo que outros possam usá-los, modificá-los e até sugerir melhorias ou apontar bugs.
+Este repositório contém todos os meus projetos em Python/Lua (Open Source), que podem ser usados e modificados por qualquer pessoa. Este é apenas o começo da minha jornada na programação e quero guardar meus projetos aqui, desde os mais simples até os mais avançados. O objetivo principal é tornar esses projetos **Open Source**, permitindo que outros possam usá-los, modificá-los e até sugerir melhorias ou apontar bugs.
 
 ## Descrição
 
-Este projeto contém diversos scripts em Python/Luau que abordam temas como:
+Este projeto contém diversos scripts em Python/Lua que abordam temas como:
 
 - Cálculos matemáticos
 - Manipulação de strings
@@ -18,7 +18,7 @@ Este projeto contém diversos scripts em Python/Luau que abordam temas como:
 O repositório contém os seguintes arquivos:
 
 ```
-/Projetos-em-Python-e-Luau/Python
+/Projetos-em-Python-e-Lua/Python
 ├── bot.py
 ├── calculaora_adicao.py
 ├── contagem_regressiva.py
@@ -33,10 +33,10 @@ O repositório contém os seguintes arquivos:
 
 ```
 /Projetos-em-Python-e-Lua/Lua
-├── DashScript.luau
-├── destroy.luau
-├── JumpScript.luau
-├── SprintScript.luau
+├── DashScript.lua
+├── destroy.lua
+├── JumpScript.lua
+├── SprintScript.lua
 
 
 ```
@@ -45,12 +45,12 @@ O repositório contém os seguintes arquivos:
 
 1. **Clone o repositório para a sua máquina local:**
    ```bash
-   git clone https://github.com/IsmaelGamesYT0/Projetos-em-Python-e-Luau.git
+   git clone https://github.com/IsmaelGamesYT0/Projetos-em-Python-e-Lua.git
    ```
 
 2. **Navegue até a pasta do projeto:**
    ```bash
-   cd Projetos-em-Python-e-Luau
+   cd Projetos-em-Python-e-Lua
    ```
 
 3. **Execute o script desejado com Python:**
