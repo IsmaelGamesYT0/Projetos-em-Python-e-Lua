@@ -18,7 +18,29 @@ Este projeto contém diversos scripts em Python/Lua que abordam temas como:
 O repositório contém os seguintes arquivos:
 
 ```
-/Projetos-em-Python-e-Lua/Python
+Projetos-em-Python-e-Lua/Python/100_Desafios_Python
+/00-Introdução/
+├── 00-olá_mundo.py
+├── 01-Input_Básico.py
+
+Projetos-em-Python-e-Lua/Python/100_Desafios_Python
+/01-Fundamentos/
+├── 01-soma.py
+├── 02-antecessor_sucessor.py
+├── 03-dobro_triplo_raiz.py
+├── 04-media_tres_notas.py
+├── 05-conversor_metros.py
+├── 06-tabuada.py
+├── 07-conversor-moeda.py
+├── 08-par-ou-impar.py
+
+
+Projetos-em-Python-e-Lua/Python/Prática
+/
+├── entrevista.py
+
+Projetos-em-Python-e-Lua/Python
+/Códigos/
 ├── bot.py
 ├── calculaora_adicao.py
 ├── contagem_regressiva.py
