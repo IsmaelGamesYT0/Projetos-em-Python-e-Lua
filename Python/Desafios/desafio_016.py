@@ -1,4 +1,4 @@
-# Crie um programa que leia um número Real qualquer e mostre sua porção inteira
+# Crie um programa que leia um número Real qualquer e mostre sua porção inteira.
 
 from time import sleep
 from math import trunc, ceil
@@ -11,23 +11,19 @@ def clear():
 
 clear()
 
-numero_real = float(input("Por favor, insira qualquer número real: "))
+
+numero_real = float(input("Digite um número real: "))
+
+numero_arredondado = trunc(numero_real)
+
+numero_arredondado_pra_cima = ceil(numero_real)
+
+print("\nCalculando...")
+
+sleep(2)
 
 clear()
-
-numero_inteiro = trunc(numero_real)
-
-numero_inteiro_arredondado = ceil(numero_real)
-
-print("Calculando...")
-sleep(2.5)
-clear()
-
-print("Concluído!")
-sleep(1.5)
-clear()
-
 
 print(
-    f"Seu número real '{numero_real}' em número inteiro é '{numero_inteiro}' e arredodando é '{numero_inteiro_arredondado}'!"
+    f"A porção inteira de {numero_real} é {numero_arredondado} e arredondando para cima fica {numero_arredondado_pra_cima}."
 )
