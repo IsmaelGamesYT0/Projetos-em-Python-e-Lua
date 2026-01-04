@@ -1,27 +1,11 @@
-from time import sleep
-import random
-import os
+# Exercício Python 17: Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo.
+# Calcule e mostre o comprimento da hipotenusa.
 
+from math import hypot
 
-def clear():
-    os.system("cls" if os.name == "nt" else "clear")
+cateto_oposto = float(input("Digite o comprimento do cateto oposto: "))
+cateto_adjacente = float(input("Agora digite o comprimento do cateto adjacente:"))
 
+hipotenusa = hypot(cateto_oposto, cateto_adjacente)
 
-nomes = ["João", "Maria", "Ana", "John"]
-
-
-def selectRandom(nomes):
-    return random.choice(nomes)
-
-
-print(f"O aluno sorteado para limpar o quadro foi... \n")
-sleep(3)
-clear()
-
-print("Sorteando...")
-sleep(3)
-clear()
-
-print(
-    f"Parabéns {selectRandom(nomes)}, você ganhou o sorteio e terá que limpar o quadro!"
-)
+print(f"A hipotenusa vai medir {hipotenusa:.2f}")
